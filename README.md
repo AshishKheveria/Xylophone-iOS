@@ -6,7 +6,7 @@ A colourful XyloPhone app.
 Musical Instrument!
 Music apps are so popular on the App Store that they even get their own category
 
-## Our Goal
+## Goal
 
 The goal of this is to dive into a simple iOS recipe - how to play sound and use an Apple library called AVFoundation.By learning to use these tools, we’ll be able to start adding custom features to an app and get it to do what you want it to.
 
